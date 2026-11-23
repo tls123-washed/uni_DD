@@ -1,0 +1,21 @@
+{
+  "data_source": "synthetic",
+  "seed": 241126,
+  "start_date": "2026-09-01",
+  "end_date": "2026-11-23",
+  "timezone": "Asia/Almaty (UTC+05:00)",
+  "tables": {
+    "faculties": 6,
+    "users": 600,
+    "communities": 18,
+    "community_members": 1185,
+    "posts": 1972,
+    "post_hashtags": 1120,
+    "likes": 5184,
+    "follows": 2589,
+    "events": 32,
+    "event_tickets": 1056,
+    "activity_log": 25642
+  },
+  "distinct_actions": 35
+}
